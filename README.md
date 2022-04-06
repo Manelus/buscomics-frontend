@@ -27,5 +27,5 @@ Paso 3</br>
 
 ## Autor</br>
 Manel J Barreda Albuixech</br>
-Github:https://github.com/Manelus
+Github:https://github.com/Manelus</br>
 pagina deployada: https://buscomics-front.herokuapp.com/
